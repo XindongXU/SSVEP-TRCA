@@ -1,1 +1,1 @@
-# SSVEP_TRCA
+# SSVEP-TRCA
